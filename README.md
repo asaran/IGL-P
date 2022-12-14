@@ -1,6 +1,6 @@
 # Personalized Reward Learning with Interaction-Grounded Learning 
 
-This respository contains code for the following [paper](https://arxiv.org/pdf/2206.08364.pdf):
+This respository contains code for the following [paper](https://arxiv.org/pdf/2211.15823.pdf):
 > J. Maghakian, P. Mineiro, K. Panaganti, M. Rucker, A. Saran, C. Tan.
 Personalized Reward Learning with Interaction-Grounded Learning.
 
