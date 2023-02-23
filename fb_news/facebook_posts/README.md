@@ -1,1 +1,3 @@
+# Raw Facebook Data
 
+These are the raw Facebook data files collected as part of a study by __[Patrick Martincheck](https://shift.newco.co/2016/11/09/What-I-Discovered-About-Trump-and-Clinton-From-Analyzing-4\\-Million-Facebook-Posts/)__. The 14 files correspond to posts made by the official Facebook pages of 14 top news sources. Each file corresponds to all posts by the specificied news source over 6 months, collected in 2016. Although the original Martincheck dataset contained 4 years of data (2012-2016), for our paper we require data that contains emoji reactions. Thus we restrict the data to a date range after Facebook introduced emoji reactions to users.
