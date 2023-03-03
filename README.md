@@ -28,8 +28,8 @@ ipython -c "%run fb_news_experiment.ipynb"
 ## Bibliography
 If you find our work to be useful in your research, please cite:
 ```
-@inproceedings{maghakian2022interaction,
-  title={Interaction-Grounded Learning for Recommender Systems},
+@inproceedings{maghakian2022personalized,
+  title={Personalized Reward Learning with Interaction-Grounded Learning},
   author={Maghakian, Jessica and Mineiro, Paul and Panaganti, Kishan
   and Rucker, Mark and Saran, Akanksha and Tan, Cheng},
   booktitle={International Conference on Learning Representations (ICLR)},
