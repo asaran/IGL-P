@@ -2,7 +2,8 @@
 
 This respository contains code for the following [paper](https://arxiv.org/pdf/2211.15823.pdf):
 > J. Maghakian, P. Mineiro, K. Panaganti, M. Rucker, A. Saran, C. Tan.
-Personalized Reward Learning with Interaction-Grounded Learning.
+Personalized Reward Learning with Interaction-Grounded Learning. 
+International Conference on Learning Representations (ICLR), May 2023.
 
 ## Motivating 3-state IGL
 ```
